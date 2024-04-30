@@ -3,4 +3,5 @@ Tweet Generator created using a statistical four-gram model and a recurrent neur
 
 Contributors: <a href="https://www.linkedin.com/in/evanhiroshige/" target="_blank">Evan Hiroshige</a>, <a href="https://www.linkedin.com/in/kira-traynor/" target="_blank">Kira Traynor</a>, <a href="https://www.linkedin.com/in/mirzanayeemahmed/" target="_blank">Mirza N Ahmed</a>
 
+Last Updated: April 2021
 (Re-uploaded for a demo)
